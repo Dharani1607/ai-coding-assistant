@@ -1,0 +1,12 @@
+{
+  "short_name": "Code Assistant",
+  "name": "AI Coding Assistant",
+  "description": "Your personal AI-powered coding helper for debugging and code generation",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "education", "developer tools"]
+}
